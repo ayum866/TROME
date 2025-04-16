@@ -1,5 +1,3 @@
-# TROME
-Powered by-TWINxBROTHERS
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,10 +13,13 @@ Powered by-TWINxBROTHERS
             color: blue;
             padding: 10px;
         }
+        h3{
+            color:black;
+        }
     </style>
 </head>
 <h1><b>ŢŘɸɰɞ</b></h1>
-
+<h3>Powered By-TWINxBROTHERS</h3>
 <body class="bg-gray-100 flex flex-col items-center justify-start min-h-screen py-10">
     <div class="bg-white rounded-full shadow-md w-full max-w-md p-4 mb-8 flex items-center">
         <input
