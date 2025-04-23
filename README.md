@@ -18,9 +18,10 @@
         }
     </style>
 </head>
-<h1><b>ŢŘɸɰɞ</b></h1>
+<h1><b>ŢŘɸɰɞ</b></h1>   
 <h3>Powered By-TWINxBROTHERS</h3>
-<body class="bg-gray-100 flex flex-col items-center justify-start min-h-screen py-10">
+<body class="bg-gray-100 flex flex-col items-center justify-start min-h-screen py-10">                    
+    <button id="google-signin">Sign in with Google</button>
     <div class="bg-white rounded-full shadow-md w-full max-w-md p-4 mb-8 flex items-center">
         <input
             type="text"
