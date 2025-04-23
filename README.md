@@ -421,6 +421,24 @@
                 const query = document.getElementById("searchBar").value;
                 searchWebsites(query);
             }
+           // Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyChRXmoyYliaaHNzv52CC-PAj6VT7OP-do",
+  authDomain: "drfebh5n.firebaseapp.com",
+  projectId: "drfebh5n",
+  storageBucket: "drfebh5n.firebasestorage.app",
+  messagingSenderId: "829151375812",
+  appId: "1:829151375812:web:0f354dbbfee4211b2ab491"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+"site": "undefined",
         });
     </script>
 </body>
